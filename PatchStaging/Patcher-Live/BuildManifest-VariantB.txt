@@ -1,0 +1,4 @@
+$NUM_ENTRIES = 2
+$BUILD_ID = Patcher-Live
+pakchunk5002-Windows.pak	1,275	ver001	5002	/VariantB/pakchunk5002-Windows.pak
+pakchunk10001-Windows.pak	40042850	ver001	10001	/VariantB/pakchunk10001-Windows.pak
